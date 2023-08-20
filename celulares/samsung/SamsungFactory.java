@@ -10,10 +10,12 @@ public class SamsungFactory implements FabricanteCelular {
 
     @Override
     public Celular constroiCelular(String modelo) {
-        switch (modelo) {
-            case "S20":
+        Modelos modeloEnum = Modelos.valueOf(modelo);
+        switch (modeloEnum) {
+            case S20:
                 return new S20();
-
+            case S21:
+                return new S21();
             default:
                 throw new Error("Modelo " + modelo + " não existe");
 
