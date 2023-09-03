@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cafeteria",
+            "request": "launch",
+            "mainClass": "lab3.cafeteria.Cafeteria",
+            "projectName": "ufu_poo2_lab2_eb9e5388"
+        },
+        {
+            "type": "java",
             "name": "Pizzaria",
             "request": "launch",
             "mainClass": "lab3.pizzaria.Pizzaria",
