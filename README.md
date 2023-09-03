@@ -1,4 +1,4 @@
-# ufu_poo2_lab2
+# ufu_poo2
 
 > Aluno: Lucas Gabriel
 
