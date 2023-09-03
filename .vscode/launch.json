@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lab4.custom_termometro.Main",
+            "projectName": "ufu_poo2_lab2_eb9e5388"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lab4.calculadora.Main",
+            "projectName": "ufu_poo2_lab2_eb9e5388"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lab4.aves.Main",
+            "projectName": "ufu_poo2_lab2_eb9e5388"
+        },
+        {
+            "type": "java",
             "name": "Cafeteria",
             "request": "launch",
             "mainClass": "lab3.cafeteria.Cafeteria",
