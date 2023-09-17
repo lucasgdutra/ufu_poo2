@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "lab5.proxy.Main",
+            "projectName": "ufu_poo2_lab2_eb9e5388"
+        },
+        {
+            "type": "java",
+            "name": "Carro",
+            "request": "launch",
+            "mainClass": "lab5.fachade_carro.Carro",
+            "projectName": "ufu_poo2_lab2_eb9e5388"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "lab4.custom_termometro.Main",
             "projectName": "ufu_poo2_lab2_eb9e5388"
         },
