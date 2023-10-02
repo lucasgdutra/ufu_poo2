@@ -14,8 +14,8 @@ public class Main {
 
         cet.notifyObservers();
 
-        System.out.println(aeroporto.getVelocidadeVento());
+        System.out.println("Aeroporto - Velocidade do vento: " + aeroporto.getVelocidadeVento());
 
-        System.out.println(prefeitura.getAlertas());
+        System.out.println("Prefeitura - Lista de alertas: " + prefeitura.getAlertas());
     }
 }

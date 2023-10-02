@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
+import lab6.IObservable;
+import lab6.IObserver;
+
 public class CetObservable implements IObservable {
     private List<IObserver> observers = new ArrayList<>();
 

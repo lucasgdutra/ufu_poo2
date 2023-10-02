@@ -1,3 +1,6 @@
+import lab6.IObservable;
+import lab6.IObserver;
+
 public class AeroPortoObserver implements IObserver {
     private double velocidadeVento;
 

@@ -1,4 +1,8 @@
 import java.util.List;
+
+import lab6.IObservable;
+import lab6.IObserver;
+
 import java.util.ArrayList;
 
 public class PrefeituraObserver implements IObserver {
